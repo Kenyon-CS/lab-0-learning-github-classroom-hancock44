@@ -60,7 +60,9 @@ int main() {
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+      int wordNum = 1;
+      cout << wordNum << ". " << anagram << endl;
+      wordNum += 1;
     }
   }
 
