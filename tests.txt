@@ -1,1 +1,7 @@
-
+Enter a word: ship
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'ship':
+1. hips
+2. phis
+3. pish
+4. ship
