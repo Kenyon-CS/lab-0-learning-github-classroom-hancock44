@@ -5,3 +5,9 @@ Anagrams found for the word 'ship':
 2. phis
 3. pish
 4. ship
+
+Enter a word: river
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'river':
+1. river
+
