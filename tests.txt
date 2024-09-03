@@ -11,3 +11,28 @@ Enter the filename containing the list of words: words_alpha.txt
 Anagrams found for the word 'river':
 1. river
 
+Enter a word: bare
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'bare':
+1. bare
+2. bear
+3. brae
+
+Enter a word: toga
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'toga':
+1. goat
+2. toag
+3. toga
+
+Enter a word: aunt
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'aunt':
+1. antu
+2. aunt
+3. natu
+4. naut
+5. taun
+6. tuan
+7. tuna
+8. unta
